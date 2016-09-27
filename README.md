@@ -1,6 +1,6 @@
 # Network Security
-Just some snippets for networking and security.
-First Header | Second Header
+Just some self-learning notes and code snippets for networking and security.
+
+Topics | Files
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+ARP and RARP | ARP_RARP
